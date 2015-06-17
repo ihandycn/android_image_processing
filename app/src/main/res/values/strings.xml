@@ -6,4 +6,5 @@
     <string name="title_activity_primary_color">PrimaryColor</string>
     <string name="title_activity_color_matrix">ColorMatrix</string>
     <string name="title_activity_pixels_effect">PixelsEffect</string>
+    <string name="title_activity_image_matrix_test">ImageMatrixTest</string>
 </resources>

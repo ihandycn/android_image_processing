@@ -28,6 +28,10 @@
             android:name=".PixelsEffect"
             android:label="@string/title_activity_pixels_effect" >
         </activity>
+        <activity
+            android:name=".ImageMatrixTest"
+            android:label="@string/title_activity_image_matrix_test" >
+        </activity>
     </application>
 
 </manifest>

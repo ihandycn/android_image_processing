@@ -30,4 +30,8 @@ public class MainActivity extends ActionBarActivity {
     public void btnPixel(View view) {
         startActivity(new Intent(this, PixelsEffect.class));
     }
+
+    public void btnMatrix(View view) {
+        startActivity(new Intent(this, ImageMatrixTest.class));
+    }
 }
