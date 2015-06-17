@@ -34,4 +34,8 @@ public class MainActivity extends ActionBarActivity {
     public void btnMatrix(View view) {
         startActivity(new Intent(this, ImageMatrixTest.class));
     }
+
+    public void btnXfermode(View view) {
+        startActivity(new Intent(this, RoundRectXfermodeTest.class));
+    }
 }

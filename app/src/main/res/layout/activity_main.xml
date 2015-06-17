@@ -34,4 +34,9 @@
         android:layout_height="wrap_content"
         android:text="Matrix"
         android:onClick="btnMatrix"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Xfermode"
+        android:onClick="btnXfermode"/>
 </LinearLayout>

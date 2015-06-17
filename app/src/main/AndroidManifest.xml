@@ -32,6 +32,10 @@
             android:name=".ImageMatrixTest"
             android:label="@string/title_activity_image_matrix_test" >
         </activity>
+        <activity
+            android:name=".RoundRectXfermodeTest"
+            android:label="@string/title_activity_round_rect_xfermode_test" >
+        </activity>
     </application>
 
 </manifest>

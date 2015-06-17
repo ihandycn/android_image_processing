@@ -7,4 +7,5 @@
     <string name="title_activity_color_matrix">ColorMatrix</string>
     <string name="title_activity_pixels_effect">PixelsEffect</string>
     <string name="title_activity_image_matrix_test">ImageMatrixTest</string>
+    <string name="title_activity_round_rect_xfermode_test">RoundRectXfermodeTest</string>
 </resources>
