@@ -13,4 +13,5 @@ reference site:
 
 ## 画笔风格
 - Xfermode
-- Shader
+- Shader 渲染器
+-

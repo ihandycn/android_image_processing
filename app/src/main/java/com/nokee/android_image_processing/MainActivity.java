@@ -38,4 +38,7 @@ public class MainActivity extends ActionBarActivity {
     public void btnXfermode(View view) {
         startActivity(new Intent(this, RoundRectXfermodeTest.class));
     }
+    public void btnShader(View view) {
+        startActivity(new Intent(this, BitmapShaderTest.class));
+    }
 }

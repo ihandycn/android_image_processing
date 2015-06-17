@@ -36,6 +36,10 @@
             android:name=".RoundRectXfermodeTest"
             android:label="@string/title_activity_round_rect_xfermode_test" >
         </activity>
+        <activity
+            android:name=".BitmapShaderTest"
+            android:label="@string/title_activity_bitmap_shader_test" >
+        </activity>
     </application>
 
 </manifest>
